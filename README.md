@@ -1,2 +1,2 @@
-# Bmi
-developing a wholesome body mass tracking app.
+# RacePresumptor
+developing a wholesome racepresumptor app for fun.
