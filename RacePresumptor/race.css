@@ -1,0 +1,90 @@
+html{
+    font-family: 'rockwell';
+    padding: 0;
+}
+
+#h1div{
+    height: 100px;
+    background: linear-gradient(to right, #325793 75%, #1A2D4C 35%);
+}
+
+h1{
+    text-align: center;
+    color: #E8E8E8;
+    padding-top: 35px;
+    margin: 0px 0px 0px 0px;
+}
+
+h1 #firstheader{
+    font-weight: 100;
+}
+
+#display{
+    display: block;
+    background: green;
+    height: 50px;
+    margin: 0px 0px 0px 0px;
+    padding: 10px 0px 0px 10px;
+}
+
+body{
+    margin: 0;
+    background: #B6C3D7;
+}
+
+td{
+    width: 300px;
+    height: 70px;
+    background: #CDD5E3;
+}
+
+table{
+    margin: auto;
+    width: ;
+}
+
+input{
+    background: #CDD5E3;
+    outline: none;
+    border-color: rgba(205, 213, 227, 0);
+    height: 59px;
+    width: 290px;
+    font-size: 15px;
+    padding: 10px;
+}
+
+section#first{
+    border: 0px solid red;
+    display: block;
+    width: 800px;
+    margin: auto;
+    background: #B6C3D7;
+}
+
+button{
+    display: inline-block;
+    float: ;
+    background: #071A39;
+    outline: none;
+    height: 30px;
+    width: 80px;
+    border-color: rgba(7, 27, 59, 0);
+    color: #B6C3D7;
+    font-family: 'rockwell';
+    font-size: 14px;
+    border-radius: 2px;
+    margin: 5px 0px 0px 700px;
+}
+
+#footerdiv{
+    height: 50px;
+    background: #435A7D;
+    margin: 50px 0px 0px 0px;
+}
+
+footer{
+    color: #E8E8E8;
+    padding: 10px 0px 0px 30px;
+    font-family: 'Segoe UI';
+    margin: 0px 0px 0px 0px;
+}
