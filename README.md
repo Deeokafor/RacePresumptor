@@ -1,2 +1,2 @@
 # RacePresumptor
-developing a wholesome racepresumptor app for fun.
+developing a goofy racepresumptor app for fun.
